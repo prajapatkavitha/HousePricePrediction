@@ -24,7 +24,6 @@ Developed and executed in **Google Colab** for easy accessibility without requir
 
 ---
 
-###💡 Author
-
+##💡 Author
 P. Kavitha
 Passionate about Data Science, Machine Learning, and Predictive Analytics 🚀
